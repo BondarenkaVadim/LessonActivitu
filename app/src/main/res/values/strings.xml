@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LessonActivitu</string>
+    <string name="item_text_view">TextView</string>
+    <string name="item_text_button">Button</string>
+</resources>
